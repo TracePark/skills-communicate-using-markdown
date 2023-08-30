@@ -1,3 +1,8 @@
+- [x] List syntax is required
+- [ ] This item is complete
+- [x] This item is not complete
+
+
 # This is Header 1
 ## This is Header 2
 
